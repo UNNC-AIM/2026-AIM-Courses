@@ -9,6 +9,7 @@
         "btop",
         "classmethod",
         "colcon",
+        "COMSOL",
         "cout",
         "CSDIY",
         "defense",
@@ -19,6 +20,7 @@
         "haarcascade",
         "haarcascades",
         "hasattr",
+        "HUSTROBOCON",
         "imread",
         "imwrite",
         "Ints",
@@ -43,6 +45,7 @@
         "robomaster",
         "rosdep",
         "setuptools",
+        "simulink",
         "staticmethod",
         "tlnp"
     ]
